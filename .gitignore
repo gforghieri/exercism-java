@@ -12,3 +12,9 @@ hello-world/.idea
 hello-world/.exercism
 hello-world/build
 hello-world/gradle
+
+.gradle/
+.idea/
+.exercism/
+build/
+gradle/
