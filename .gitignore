@@ -18,3 +18,5 @@ hello-world/gradle
 .exercism/
 build/
 gradle/
+gradlew
+gradlew.bat
